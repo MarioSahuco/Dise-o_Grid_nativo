@@ -8,7 +8,7 @@ Este proyecto utiliza un grid de varias áreas (Bento Grid) para mostrar distint
 
 ## 🌐 Visitar la página web
 
-[![Abrir MacBook Bento Grid](https://img.shields.io/badge/Ver%20Proyecto-Web-blue?style=for-the-badge)](https://marioskky.github.io/Dise-o_Grid_nativo/)
+[![Abrir MacBook Bento Grid](https://img.shields.io/badge/Ver%20Proyecto-Web-blue?style=for-the-badge)](https://mariosahuco.github.io/Dise-o_Grid_nativo/)
 
 
 ## 🛠️ Tecnologías utilizadas
@@ -53,4 +53,5 @@ Proyecto educativo y demostrativo de uso libre.
 ---
 
 ✨ *Presentando la tecnología de Apple de manera organizada y visualmente atractiva.*
+
 
